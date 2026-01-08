@@ -1,0 +1,2 @@
+For whatever reason(s) you may want to perform your searches using Google like you normally do, but wish that you would get credit from Bing for your search. With this browser userscript running, searches you send to Google's search engine will trigger an identical search in Bing using a background tab that will automatically close in around three seconds.
+Tested to be working as expected on Chromium browsers using Tapermonkey and ViolentMonkey. Should work just a well on Firefox.
